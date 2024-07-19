@@ -133,6 +133,7 @@ html, body {
     transform: translateX(-200px);
     opacity: 0;
   }
+
 }
 
 .pic-ctn {
@@ -145,7 +146,7 @@ html, body {
 .pic-ctn > img {
   position: absolute;
   top: 0;
-  left: calc(50% - 125px);
+  left: calc(10%);
   opacity: 0;
   animation: display 10s infinite;
 }
@@ -158,7 +159,4 @@ img:nth-child(3) {
 }
 img:nth-child(4) {
   animation-delay: 6s;
-}
-img:nth-child(5) {
-  animation-delay: 8s;
 }
