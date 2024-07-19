@@ -146,7 +146,7 @@ html, body {
 .pic-ctn > img {
   position: absolute;
   top: 0;
-  left: calc(10%);
+  left: calc(15%);
   opacity: 0;
   animation: display 10s infinite;
 }
