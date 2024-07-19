@@ -160,3 +160,6 @@ img:nth-child(3) {
 img:nth-child(4) {
   animation-delay: 6s;
 }
+img:nth-child(4) {
+  animation-delay: 8s;
+}
